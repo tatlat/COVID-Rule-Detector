@@ -1,0 +1,1 @@
+# COVID-Rule-Detector
